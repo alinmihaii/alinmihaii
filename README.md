@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolau Mihai-Alin</h1>
 <h3 align="center">A beginner but passionate developer from Constanța, Romania.</h3>
 
-- 🔭 I’m currently working on **building my Python Portfolio**
+- 🔭 I’m currently working on **building my Developer Portfolio**
 
 - 🌱 I’m currently learning **Python, HTML&CSS.**
 
