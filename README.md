@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on **building my Developer Portfolio**
 
-- 🌱 I’m currently learning **Python, HTML&CSS.**
+- 🌱 I’m currently learning **Python, HTML&CSS and JavaScript**
 
-- 📫 How to reach me **nicolau.alin14@yahoo.com**
+- 📫 How to reach me **nicolau.alin14@yahoo.com**/**@alin_mihai14**
 
-- ⚡ Fun fact **I love cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
